@@ -2,14 +2,14 @@
 ## 1a. Test Suite
 The Solid identity protocol was changed in 2019 and is again being changed
 in 2020. A partial test-suite for the 2019 version was developed by Inrupt,
-but it was incorrect and incomplete. The official documentation for the 2020
+but it was incomplete and partially incorrect. The official documentation for the 2020
 version of the WebID-OIDC protocol using DPop has not yet been finalized, and
-ours will be the first implementation of it, but Node-Solid-Server and
-Solid-App-Kit are expected to implement it soon as well. This means that in order to
-implement it in PHP, we need a reliable test-suite first, that tests whether
-a given server is acting as a spec-compliant identity provider. This milestone
-is for writing this test-suite, which will check compatibility between our
-implementation in PHP (Nextcloud-based/stand-alone), Node-Solid-Server, and Solid-App-Kit.
+ours will be among the first implementations of it, along with Node-Solid-Server and
+Solid-App-Kit. This means that in order to implement it in PHP, we need a reliable
+test-suite first, that tests whether a given server is acting as a spec-compliant
+identity provider. This milestone is for writing this test-suite, which will check
+compatibility between our implementation in PHP (Nextcloud-based/stand-alone),
+Node-Solid-Server, and Solid-App-Kit.
 
 ## 1b. Standalone
 This milestone will be for implementing a Solid identity provider in PHP,
@@ -31,7 +31,7 @@ implementation projects to benefit from.
 ## 2b. Implementation
 This milestone will include both the implementation of the Solid storage API in PHP, and the integration
 of that component into the Nextcloud app which was created in milestone 1c. It encompasses the various
-HTTP verbs, as well as RDF-aware sparql-update and content-negotiation.
+HTTP verbs, as well as RDF-aware parts like sparql-update and content-negotiation.
 
 # 3. Web ACL
 ## 3a. Test Suite
@@ -51,5 +51,18 @@ of that component into the Nextcloud app which was created in milestone 1c.
 
 # 4. Deep Integration
 ## 4a. Solid App Launcher
-## 4b. Contacts
+A crucial part of Solid is allowing the user to control who gets access to which part of their data. The basis
+for this was developed last year at Inrupt, called the Solid App Launcher, which we need to update and integrate
+into the user interface of both the stand-alone server and the Nextcloud integration app.
+
+## 4b. Contacts and Profile
+Nextcloud users already have profile data like full name and avatar in their user account, and they also already
+have a Nextcloud addressbook in which they keep track of their contacts, for instance for sharing Nextcloud documents.
+For this milestone we will unlock this data and make it available in the RDF-based Solid data format for profile and
+contacts data.
+
 ## 4c. Calendar
+Same as 4b. but unlocking the user's Nextcloud-native calendar events as Solid-native calendar events. Where certain
+fields don't have a mapping (e.g. if the Solid format has a maximum number of attendees for an event, but the Nextcloud
+format does not), they will simply be left blank. Other than that, it will be a great way to bootstrap the Solid app
+eco-system, where the millions of existing Nextcloud users can instantly use Solid apps with their existing data.
