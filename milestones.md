@@ -1,18 +1,17 @@
-# Identity
-## Test Suite 2
-## Standalone 1
-## Nextcloud Integration 4
+# 1. Identity
+## 1a. Test Suite
+## 1b. Standalone
+## 1c. Nextcloud Integration
 
-# Web ACL
-## Test Suite (?)
-## Implementation 7
+# 2. Web ACL
+## 2a. Test Suite
+## 2b. Implementation
 
-# Storage API
-## Test Suite 3
-## Implementation 6
+# 3. Storage API
+## 3a. Test Suite
+## 3b. Implementation
 
-# Deep Integration
-## Solid App Launcher 5
-## Contacts 8
-## Calendar 9
-## To Do Items 10
+# 4. Deep Integration
+## 4a. Solid App Launcher
+## 4b. Contacts
+## 4c. Calendar
