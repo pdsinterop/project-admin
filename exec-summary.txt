@@ -6,7 +6,7 @@ server into a Solid pod server. It gives every user a WebID profile and allows
 Solid apps to store data on the user's Nextcloud account.
 
 It also exposes some of the user's existing Nextcloud data like contacts and
-todo lists as Solid user data, so that Solid apps can interact with the user's
+calendar events as Solid user data, so that Solid apps can interact with the user's
 Nextcloud data, and allow the user to manage which Solid apps can access which
 specific aspects of the user's personal data.
 
