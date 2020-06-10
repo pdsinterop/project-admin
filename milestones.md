@@ -1,3 +1,6 @@
+For each of these 10 milestones (organized in 4 topics) we will request payment of
+5,000 euros from the NGI-Zero:PET grant we received (total: 50,000 euros).
+
 # 1. Identity
 ## 1a. Test Suite
 The Solid identity protocol was changed in 2019 and is again being changed
