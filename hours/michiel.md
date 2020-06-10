@@ -5,3 +5,4 @@ Michiel's own admin of his hours worked for the project:
 * Sun 7 June: Preparation: 1
 * Mon 8 June: Kick-off and admin: 2
 * Tue 9 June: Exec summary and milestones 2
+* Wed 10 June: Read up on webid-oidc w/DPoP 4
