@@ -5,7 +5,8 @@ For each of these 10 milestones (organized in 4 topics) we will request payment 
 # 1. Identity
 ## 1a. Test Suite
 The Solid identity protocol was changed in 2019 and is again being changed
-in 2020. A test-suite for the 2019 version was developed by Inrupt,
+in 2020. A [test-suite](https://github.com/solid/test-suite) for the 2019 version
+of webid-oidc was developed by [Inrupt](https://inrupt.com),
 but it was incomplete and partially incorrect. The official documentation for the 2020
 version of the [WebID-OIDC](https://github.com/solid/webid-oidc-spec) protocol using
 [DPop](https://tools.ietf.org/html/draft-fett-oauth-dpop-04) has not yet been finalized, and
