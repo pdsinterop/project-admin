@@ -1,5 +1,6 @@
 For each of these 10 milestones (organized in 4 topics) we will request payment of
-5,000 euros from the NGI-Zero:PET grant we received (total: 50,000 euros).
+5,000 euros from the [Next Generation Internet Privacy & Trust Enhancing Technologies
+(NGI-Zero:PET) grant](https://nlnet.nl/PET/) we received (total: 50,000 euros).
 
 # 1. Identity
 ## 1a. Test Suite
