@@ -7,7 +7,8 @@ For each of these 10 milestones (organized in 4 topics) we will request payment 
 The Solid identity protocol was changed in 2019 and is again being changed
 in 2020. A test-suite for the 2019 version was developed by Inrupt,
 but it was incomplete and partially incorrect. The official documentation for the 2020
-version of the WebID-OIDC protocol using DPop has not yet been finalized, and
+version of the [WebID-OIDC](https://github.com/solid/webid-oidc-spec) protocol using
+[DPop](https://tools.ietf.org/html/draft-fett-oauth-dpop-04) has not yet been finalized, and
 ours will be among the first implementations of it, along with Node-Solid-Server and
 Solid-App-Kit. This means that in order to implement it in PHP, we need a reliable
 test-suite first, that tests whether a given server is acting as a spec-compliant
