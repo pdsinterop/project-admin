@@ -9,8 +9,10 @@ in 2020. A test-suite for the 2019 version was developed by Inrupt,
 but it was incomplete and partially incorrect. The official documentation for the 2020
 version of the [WebID-OIDC](https://github.com/solid/webid-oidc-spec) protocol using
 [DPop](https://tools.ietf.org/html/draft-fett-oauth-dpop-04) has not yet been finalized, and
-ours will be among the first implementations of it, along with Node-Solid-Server and
-Solid-App-Kit. This means that in order to implement it in PHP, we need a reliable
+ours will be among the first implementations of it, along with
+[Node-Solid-Server]( https://github.com/solid/node-solid-server) and
+[Solid-App-Kit](https://github.com/michielbdejong/solid-app-kit).
+This means that in order to implement it in PHP, we need a reliable
 test-suite first, that tests whether a given server is acting as a spec-compliant
 identity provider. This milestone is for writing this test-suite, which will check
 compatibility between our implementation in PHP (Nextcloud-based/stand-alone),
