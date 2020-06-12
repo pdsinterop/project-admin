@@ -84,3 +84,4 @@ format does not), they will simply be left blank. Other than that, it will be a 
 eco-system, where the millions of existing Nextcloud users can instantly use Solid apps with their existing data.
 The details of both the Solid and the Nextcloud data format for this will be detailed on a dedicated public web page
 on https://pdsinterop.org/, with links to the relevant sections in the official Solid spec.
+
