@@ -1,9 +1,9 @@
-PDS Interop: Solid-Nextcloud
----------------
+# PDS Interop: Solid-Nextcloud
+
 This project connects the world of Solid with the world of Nextcloud.
 The aim is to develop an open source Nextcloud app that turns a Nextcloud
-server into a Solid pod server. It gives every user a WebID profile and allows
-Solid apps to store data on the user's Nextcloud account.
+server into a spec-compliant Solid server. It gives every user a WebID profile
+and allows Solid apps to store data on the user's Nextcloud account.
 
 It also exposes some of the user's existing Nextcloud data like contacts and
 calendar events as Solid user data, so that Solid apps can interact with the user's
