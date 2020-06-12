@@ -13,7 +13,7 @@ test-suite first, that tests whether a given server is acting as a spec-complian
 identity provider. This milestone is for writing this test-suite, which will check
 compatibility between our implementation in PHP (Nextcloud-based/stand-alone),
 Node-Solid-Server, and Solid-App-Kit. The exact test criteria this test suite tests for
-will be detailed on a dedicated public web page on https://psdinterop.org/, with links
+will be detailed on a dedicated public web page on https://pdsinterop.org/, with links
 to the relevant sections in the official Solid spec.
 
 ## 1b. Standalone
@@ -32,7 +32,7 @@ the storage API of a Solid server needs to implement. Part of this is already te
 test-suite, but for many details such as filename encoding, recursive deletes, sparql-update
 and race conditions, a reliable test suite is still needed, both for our project and for other Solid server
 implementation projects to benefit from. The exact test criteria this test suite tests for
-will be detailed on a dedicated public web page on https://psdinterop.org/, with links
+will be detailed on a dedicated public web page on https://pdsinterop.org/, with links
 to the relevant sections in the official Solid spec.
 
 ## 2b. Implementation
@@ -52,7 +52,7 @@ Control Lists are interpreted in exactly the same way by each implementation of 
 including our Nextcloud-based one. This milestone will provide a test suite that checks and
 ensures that our implementation is both correct as intended, and compatible with other implementations.
 The exact test criteria this test-suite tests for will be detailed on a dedicated public web page on
-https://psdinterop.org/, with links to the relevant sections in the official Solid spec.
+https://pdsintero.org/, with links to the relevant sections in the official Solid spec.
 
 ## 3b. Implementation
 This milestone will include both the implementation of the Web Access Control spec in PHP, and the integration
@@ -64,7 +64,7 @@ A crucial part of Solid is allowing the user to control who gets access to which
 for this was developed last year at Inrupt, called the Solid App Launcher, which we need to update and integrate
 into the user interface of both the stand-alone server and the Nextcloud integration app.
 The index of apps this launcher recognizes, and exact permissions each app requests
-will be detailed on a dedicated public web page on https://psdinterop.org/, with links
+will be detailed on a dedicated public web page on https://pdsinterop.org/, with links
 to the relevant sections in the official Solid spec.
 
 ## 4b. Contacts and Profile
@@ -73,7 +73,7 @@ have a Nextcloud addressbook in which they keep track of their contacts, for ins
 For this milestone we will unlock this data and make it available in the RDF-based Solid data format for profile and
 contacts data.
 The details of both the Solid and the Nextcloud data format for this will be detailed on a dedicated public web page
-on https://psdinterop.org/, with links to the relevant sections in the official Solid spec.
+on https://pdsinterop.org/, with links to the relevant sections in the official Solid spec.
 
 ## 4c. Calendar
 Same as 4b. but unlocking the user's Nextcloud-native calendar events as Solid-native calendar events. Where certain
@@ -81,4 +81,4 @@ fields don't have a mapping (e.g. if the Solid format has a maximum number of at
 format does not), they will simply be left blank. Other than that, it will be a great way to bootstrap the Solid app
 eco-system, where the millions of existing Nextcloud users can instantly use Solid apps with their existing data.
 The details of both the Solid and the Nextcloud data format for this will be detailed on a dedicated public web page
-on https://psdinterop.org/, with links to the relevant sections in the official Solid spec.
+on https://pdsinterop.org/, with links to the relevant sections in the official Solid spec.
