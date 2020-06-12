@@ -49,9 +49,9 @@ is available at https://github.com/solid/web-access-control-spec, and a slightly
 readable and explicit interpretation of it is available at https://unhosted.org/using-solid/.
 A reference implementation is available in Node-Solid-Server and Solid-App-Kit, however,
 no good test suite is available for it, so there would be no good way to know if our implementation
-would be compatible. It is absolutely crucial for the security of private data that the Access
+would be compatible. **It is absolutely crucial for the security of private data that the Access
 Control Lists are interpreted in exactly the same way by each implementation of the Solid spec,
-including our Nextcloud-based one. This milestone will provide a test suite that checks and
+including our Nextcloud-based one.** This milestone will provide a test suite that checks and
 ensures that our implementation is both correct as intended, and compatible with other implementations.
 The exact test criteria this test-suite tests for will be detailed on a dedicated public web page on
 https://pdsintero.org/, with links to the relevant sections in the official Solid spec.
