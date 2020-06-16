@@ -57,7 +57,7 @@ Control Lists are interpreted in exactly the same way by each implementation of 
 including our Nextcloud-based one.** This milestone will provide a test suite that checks and
 ensures that our implementation is both correct as intended, and compatible with other implementations.
 The exact test criteria this test-suite tests for will be detailed on a dedicated public web page on
-https://pdsintero.org/, with links to the relevant sections in the official Solid spec.
+https://pdsinterop.org/, with links to the relevant sections in the official Solid spec.
 
 ## 3b. Implementation
 This milestone will include both the implementation of the Web Access Control spec in PHP, and the integration
