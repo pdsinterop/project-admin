@@ -16,3 +16,4 @@ Days of the week that each team member tends to be online and will be reacting t
     - Wednesday: 13:00-17:00 (probably 9:00-12:00 as well)
   - Monday-Friday: Email is checked in the morning and around 12:00
   - Always: call me
+* Yvo: Mon 9-17, Wed 9-17. Sometimes active in evenings as well.
