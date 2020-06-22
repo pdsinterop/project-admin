@@ -14,3 +14,10 @@ Michiel's own admin of his hours worked for the project:
 * Tue 9 June: Exec summary and milestones 2
 * Wed 10 June: Read up on webid-oidc w/DPoP 4
 * Fri 12 June: Set up test-suites repo 4
+
+# Week of 15 June: 6
+* Mon 15 June: 1.5 meeting&admin
+* Fri 19 June: 4.5 reverse-engineering NSS
+
+# Week of 22 June:
+* Mon 22 June: 1 meeting
