@@ -1,8 +1,12 @@
+# Research
 
-## risks
+This directory contains documents pertaining to:
 
-[A list of risks we need to research / mitigate](risks.md)
+- [All URLs used in the Solid spec](urls-from-solid-specs.md)
+- [PHP Libraries that could be of use to PDS Interop](php-libraries.md)
+- [Risks we need to research / mitigate](risks.md)
 
-## subprojects
+## Sub-projects
 
-- [solid-nextcloud](solid-nextcloud.md)
+- [Solid Nextcloud](solid-nextcloud.md)
+- [Standalone PHP](standalone-php.md)
