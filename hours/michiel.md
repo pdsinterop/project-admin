@@ -25,6 +25,11 @@ Michiel's own admin of his hours worked for the project:
 * Wed 24 June: 1
 * Fri 26 June: 5
 
-# Week of 29 June:
+# Week of 29 June: 11 (total: 41.5)
 * Mon 29 June: 3
 * Tue 30 June: 5.5
+* Wed 1 July: 1.5
+* Thu 2 July: 1
+
+# Week of 6 July:
+* Mon 6 July: 1
