@@ -28,7 +28,7 @@ If possible, libraries should be used for:
 
 ## Requirements / Criteria
 
-Besides being compatible with the license we use (MIT), there are several other
+Besides being compatible with the license Nextcloud requires (AGPLv3+ or compatible), there are several other
 criteria a library must meet if we are to use it.
 
 - Adhere to [IETF](https://tools.ietf.org/html/), [W3C](https://www.w3.org/TR/),
