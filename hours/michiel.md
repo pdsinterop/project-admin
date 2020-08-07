@@ -66,3 +66,8 @@ Michiel's own admin of his hours worked for the project:
 * Thu 30 July: Solid-upstream: 4
 * Fri 31 July: admin: .5
 
+# Week of 3 Aug: 1+1+.5 = 2.5 (total: 111.5)
+* Wed 5 Aug: Solid OS meeting: 1
+* Thu 6 Aug: Solid World meeting: 1
+* Fri 7 Aug: Solid Shapes meeting: .5
+
