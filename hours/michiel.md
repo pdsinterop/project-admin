@@ -71,3 +71,7 @@ Michiel's own admin of his hours worked for the project:
 * Thu 6 Aug: Solid World meeting: 1
 * Fri 7 Aug: Solid Shapes meeting: .5
 
+# Week of 10 Aug: 1+3 = 4 (total: 115.5)
+* Mon 10 Aug: meeting 1
+* Wed 12 Aug: solid-crud-tests, rdflib: 3
+
