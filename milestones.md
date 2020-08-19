@@ -10,10 +10,8 @@ The milestones are:
 
 1. Identity
    - 1a. Test Suite (€5,000)
-   - 1b. Standalone PHP (€2,500)
-   - 1c. Nextcloud Integration (€2,500)
-   - 1d. Standalone PHP server(€2,500)
-   - 1c. Nextcloud Integration (€2,500)
+   - 1b. Standalone PHP server(€5,000)
+   - 1c. Nextcloud Integration (€5,000)
 
 2. Storage API
    - 2a. Test Suite (€5,000)
@@ -25,16 +23,10 @@ The milestones are:
    - 3b. Standalone PHP (€2,500)
    - 3c. Nextcloud Integration (€2,500)
 
-4. Deep Integration
-   - Solid App Launcher
-     - 4a. Standalone PHP (€2,500)
-     - 4b. Nextcloud Integration (€2,500)
-   - Contacts and Profile
-     - 4c. Standalone PHP (€2,500)
-     - 4d. Nextcloud Integration (€2,500)
-   - Calendar
-     - 4e. Standalone PHP (€2,500)
-     - 4f. Nextcloud Integration (€2,500)
+4. Deep Integration with Nextcloud
+   - 4a. Solid App Launcher (€5,500)
+   - 4b. Contacts and Profile (€5,000)
+   - 4c. Calendar (€5,000)
 
 Each milestone is described in more detail below.
 
@@ -62,7 +54,7 @@ This milestone is for writing the parts of the test-suite that relate to:
 - Correctness of the authorization endpoint
 - Fetching the OpenID config
 - Fetching the WebID profile
-- Working with web tokens
+- Generating access tokens
 
 The tests which will check compatibility between our implementation in PHP
 (Nextcloud-based/stand-alone), Node, and Solid-App-Kit.
@@ -74,35 +66,26 @@ sections in the official Solid spec.
 ### 1b. Standalone PHP
 
 This milestone will be for creating an empty standalone PHP server (that all
-following standalone PHP milestones will be implemented in) and an identity
-(WebID profile) that passes the relevant tests from the Identity Test Suite
-milestone.
-
-### 1c. Nextcloud Integration
-
-This milestone will be for a Nextcloud app (that all following Nextcloud
-milestones will be implemented in) and a WebID profile that passes the relevant
-tests in the test-suite from the Identity Test Suite milestone.
-
-The data in the profile will be based on user data from the Nextcloud database.
-
-### 1d. Standalone PHP server
-
-This milestone will be for implementing a Solid identity provider in PHP
+following standalone PHP milestones will be implemented in), an identity
+(WebID profile), and a Solid identity provider in PHP.
 
 Any generic parts will be implemented as package(s) that can be re-used by the
 Nextcloud integration (and any future PHP implementations).
 
-The implementation will pass rest of the test in the test-suite from the
-Identity Test Suite milestone.
+The implementation will pass all of the test in the test-suite from the
+Identity Test Suite milestone (1a).
 
-### 1e. Nextcloud Integration
+### 1c. Nextcloud Integration
 
-This milestone will be for integrating the Solid identity provider into the
-Nextcloud app (using any packages created in the previous milestone).
+This milestone will be for a Nextcloud app (that all following Nextcloud
+milestones will be implemented in), a WebID profile, and integrate the Solid
+identity provider into the Nextcloud app (using any packages created in the 
+previous milestone).
 
-This will be done in such a way that Nextcloud's existing single sign-on feature
-will be used as the user login database.
+The data in the profile will be based on user data from the Nextcloud database.
+
+The identity provider will use Nextcloud's existing single  sign-on feature as
+the user login database.
 
 The implementation will pass all relevant tests from the Identity Test Suite
 milestone.
@@ -189,7 +172,7 @@ milestone.
 
 ## 4. Deep Integration
 
-### Solid App Launcher
+### 4a. Solid App Launcher
 
 A crucial part of Solid is allowing the user to control who gets access to which
 part of their data. The basis for this was developed last year at Inrupt, called
@@ -200,18 +183,9 @@ The index of apps this launcher recognizes (and exact permissions each app
 requests) will be detailed on a dedicated public web page on https://pdsinterop.org/,
 with links to the relevant sections in the official Solid spec.
 
-### 4a. Standalone PHP
+This milestone will implement the Solid App Launcher in the Nextcloud app.
 
-This milestone will implement the Solid App Launcher in standalone PHP, in such
-a way that any generic parts can be re-used (as package) in the Nextcloud
-integration.
-
-### 4b. Nextcloud Integration
-
-This milestone will include the integration of the Solid App Launcher into the
-Nextcloud app (using any packages created in the previous milestone).
-
-### Contacts and Profile
+### 4b. Contacts and Profile
 
 Nextcloud users already have profile data like full name and avatar in their
 user account, and they also already have a Nextcloud addressbook in which they
@@ -224,18 +198,11 @@ The details of both the Solid and the Nextcloud data format for this will be
 detailed on a dedicated public web page on https://pdsinterop.org/, with links
 to the relevant sections in the official Solid spec.
 
-### 4c. Standalone PHP
+This milestone will implement Contacts and Profile in the Nextcloud app.
+This is an addition to the WebID profile from the "Identity Nextcloud 
+Integration" milestone (1c).
 
-This milestone will implement Contacts and Profile in standalone PHP, in such a
-way that any generic parts can be re-used (as package) in the Nextcloud
-integration.
-
-### 4d. Nextcloud Integration
-
-This milestone will include the integration of Contacts and Profile into the
-Nextcloud app (using any packages created in the previous milestone).
-
-### Calendar
+### 4c. Calendar
 
 Same as with Contacts and Profile but unlocking the user's Nextcloud-native
 calendar events as Solid-native calendar events.
@@ -250,12 +217,4 @@ The details of both the Solid and the Nextcloud data format for this will be
 detailed on a dedicated public web page on https://pdsinterop.org/, with links
 to the relevant sections in the official Solid spec.
 
-### 4e. Standalone PHP
-
-This milestone will implement Calendar in standalone PHP, in such a way that any
-generic parts can be re-used (as package) in the Nextcloud integration.
-
-### 4f. Nextcloud Integration
-
-This milestone will include the integration of Calendar into the Nextcloud app
-(using any packages created in the previous milestone).
+This milestone will implement Calendar in the Nextcloud app.
