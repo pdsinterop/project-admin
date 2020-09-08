@@ -60,26 +60,25 @@ Michiel's own admin of his hours worked for the project:
   * thu 6 aug: Solid World meeting (16-17) 1
   * fri 7 aug: Solid Shapes meeting (12-12:30) 0.5
 
-# Week of 10 Aug: 1+3+1.75=5.75 (total: 119.25)
+# Week of 10 Aug: 1+3=4 (total: 117.5)
   * mon 10 aug: meeting (9-10) 1
   * wed 12 aug: solid-crud-tests, rdflib 3
-  * fri 14 aug: Chat pane (12:45-14:30) 1.75
 
-# Week of 17 Aug: 0.5+1+2+2.5+1.5=7.5 (total: 126.75)
+# Week of 17 Aug: 0.5+1+2+2.5+1.5=7.5 (total: 125)
   * wed 19 aug: Team meeting (9-9:30) 0.5
   * wed 19 aug: NSS (bug 1443) (10-11) 1
   * wed 19 aug: Solid OS (Chat-with-me button) (11-13) 2
   * thu 20 aug: Solid OS (Chat-with-me button) (9:30-12) 2.5
   * thu 20 aug: NSS (bug 1443) (12-13:30) 1.5
 
-# Week of 24 Aug: 0.5+2+1+1+2.5=7 (total: 133.75)
+# Week of 24 Aug: 0.5+2+1+1+2.5=7 (total: 132)
   * mon 24 aug: Team meeting (9-9:30) 0.5
   * mon 24 aug: Solid OS / NSS build (9:30-11:30) 2
   * tue 25 aug: Solid OS (9-10) 1
   * wed 26 aug: Solid OS meeting (13-14) 1
   * fri 28 aug: (14:30-17) 2.5
 
-# Week of 31 Aug: 1+3+2+2+3+1.5+1.5+2+5+1=22 (total: 155.75)
+# Week of 31 Aug: 1+3+2+2+3+1.5+1.5+2+5+1=22 (total: 154)
   * mon 31 aug: test-suites (10:30-11:30) 1
   * mon 31 aug: test-suites (14-17) 3
   * mon 31 aug: Solid OS (peer programming on headers PR with Sharon) (11:30-13:30) 2
@@ -91,5 +90,5 @@ Michiel's own admin of his hours worked for the project:
   * thu 3 sep: milestone 3a: web-access-control-tests (11-16) 5
   * thu 3 sep: Solid World (16-17) 1
 
-# Week of 7 Sep: 0.5=0.5 (total: 156.25)
+# Week of 7 Sep: 0.5=0.5 (total: 154.5)
   * tue 8 sep: admin (17-17:30) 0.5
