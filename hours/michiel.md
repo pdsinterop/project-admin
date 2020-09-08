@@ -7,25 +7,21 @@ Michiel's own admin of his hours worked for the project:
 * tue 2 jun: Preparation: 1
 * sun 7 jun: Preparation: 1
 
-# Week of 8 Jun: 2+2+4+0+4=12 (total: 16)
+# Week of 8 Jun: 2+2+4+4=12 (total: 16)
 * mon 8 jun: Kick-off and admin: 2
 * tue 9 jun: Exec summary and milestones 2
 * wed 10 jun: Read up on webid-oidc w/DPoP 4
-* thu 11 jun: 0
 * fri 12 jun: Set up test-suites repo 4
 
-# Week of 15 Jun: 1.5+0+2+0+4.5=6 (total: 22)
+# Week of 15 Jun: 1.5+2+4.5=6 (total: 22)
 * mon 15 jun: meeting&admin 1.5
-* tue 15 jun: 0
 * wed 17 jun: Solid-upstream 2
-* thu 18 jun: 0
 * fri 19 jun: reverse-engineering NSS 4.5
 
-# Week of 22 Jun: 1+4.5+2.5+0+5=13 (total: 35)
+# Week of 22 Jun: 1+4.5+2.5+5=13 (total: 35)
 * mon 22 jun: meeting 1
 * tue 23 jun: webid-provider-tests+Solid-upstream 4.5
 * wed 24 jun: webid-provider-tests+Solid-upstream 2.5
-* thu 25 jun: 0
 * fri 26 jun: webid-provider-tests 5
 
 # Week of 29 Jun: 3+5.5+4.5+1+2=16 (total: 51)
@@ -42,18 +38,13 @@ Michiel's own admin of his hours worked for the project:
 * thu 9 jul: webid-provider-tests: 1
 * fri 10 jul: CORS issue + Solid-upstream: 5.5
 
-# Week of 13 Jul: 5+5+4+4+0=18 (total:86)
+# Week of 13 Jul: 5+5+4+4=18 (total:86)
 * mon 13 jul: meeting+webid-provider-tests+Solid-upstream: 5
 * tue 14 jul: webid-provider-tests: 5
 * wed 15 jul: webid-provider-tests+Solid-upstream: 4
 * thu 16 jul: webid-provider-tests: 4
-* fri 17 jul: 0
 
 # Week of 20 Jul: 3.5+2=5.5 (total: 91.5)
-* mon 20 jul: 0
-* tue 21 jul: 0
-* wed 22 jul: 0
-* thu 23 jul: 0
 * fri 24 jul: Solid-upstream: 3.5
 * sat 25 jul: Solid-upstream: 2
 
