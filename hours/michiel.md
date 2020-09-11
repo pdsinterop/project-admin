@@ -90,5 +90,8 @@ Michiel's own admin of his hours worked for the project:
   * thu 3 sep: milestone 3a: web-access-control-tests (11-16) 5
   * thu 3 sep: Solid World (16-17) 1
 
-# Week of 7 Sep: 0.5=0.5 (total: 154.5)
+# Week of 7 Sep: 0.5+2+6+2=10.5 (total: 164.5)
   * tue 8 sep: admin (17-17:30) 0.5
+  * wed 9 sep: Set up ESS for test-suite (15-17) 2
+  * thu 10 sep: Test suites and Nextcloud app (11-17) 6
+  * fri 11 sep: Catch up with Ben, make nextcloud-server pass two webid-provider tests (9-11) 2
