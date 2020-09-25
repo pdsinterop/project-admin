@@ -95,3 +95,14 @@ Michiel's own admin of his hours worked for the project:
   * wed 9 sep: Set up ESS for test-suite (15-17) 2
   * thu 10 sep: Test suites and Nextcloud app (11-17) 6
   * fri 11 sep: Catch up with Ben, make nextcloud-server pass two webid-provider tests (9-11) 2
+
+# Week of 14 Sep: 0.5=0.5 (total: 165)
+  * mon 14 sep: meeting (9-9:30) 0.5
+
+# Week of 21 Sep: 0.5+0.5+2+5.5+2+7=17.5 (total: 182.5)
+  * mon 21 sep: meeting (9-9:30) 0.5
+  * wed 23 sep: update test suite (11-11:30) 0.5
+  * wed 23 sep: update test suite (15-17) 2
+  * thu 24 sep: fetch-openid-config tests (9-14:30) 5.5
+  * thu 24 sep: fetch-webid-profile tests (15-17) 2
+  * fri 25 sep: milestone 1c (9-16) 7
