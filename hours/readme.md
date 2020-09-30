@@ -37,7 +37,7 @@
 Milestones: [1a](https://github.com/pdsinterop/project-admin/blob/master/milestones.md#1a-test-suite)
 +
 [1c](https://github.com/pdsinterop/project-admin/blob/master/milestones.md#1c-nextcloud-integration),
-up to 200 hours)
+up to 200 hours.
 
 * Michiel: first 75 hours (€3750)
 * Ben: first 70 hours (€3500)
@@ -48,7 +48,8 @@ up to 200 hours)
 Milestones: [1b](https://github.com/pdsinterop/project-admin/blob/master/milestones.md#1b-standalone-php)
 +
 [2a](https://github.com/pdsinterop/project-admin/blob/master/milestones.md#2a-test-suite),
-from 200 to 400 hours)
+from 200 to 400 hours.
+
 * Michiel: from 75 up to 150 hours (€3750)
 * Ben: from 70 up to 140 hours (€3500)
 * Auke: from 20 up to 40 hours (€1000)
@@ -61,5 +62,6 @@ Milestones:
 [2b2](https://github.com/pdsinterop/project-admin/blob/master/milestones.md#2b2-nextcloud-integration)
 +
 [3a](https://github.com/pdsinterop/project-admin/blob/master/milestones.md#3a-test-suite),
-from 400 to 600 hours)
+from 400 to 600 hours.
+
 This RfP will bring us back on budget.
