@@ -33,17 +33,33 @@
 
 # Hours paid out per RfP, per team member
 
-## RfP 1 (milestones 1a+1c, up to 200 hours)
+## RfP 1
+Milestones: [1a](https://github.com/pdsinterop/project-admin/blob/master/milestones.md#1a-test-suite)
++
+[1c](https://github.com/pdsinterop/project-admin/blob/master/milestones.md#1c-nextcloud-integration),
+up to 200 hours)
+
 * Michiel: first 75 hours (€3750)
 * Ben: first 70 hours (€3500)
 * Auke: first 20 hours (€1000)
 * Yvo: first 35 hours (€1750)
 
-## RfP 2 (milestones 1b+2a, from 200 to 400 hours)
+## RfP 2
+Milestones: [1b](https://github.com/pdsinterop/project-admin/blob/master/milestones.md#1b-standalone-php)
++
+[2a](https://github.com/pdsinterop/project-admin/blob/master/milestones.md#2a-test-suite),
+from 200 to 400 hours)
 * Michiel: from 75 up to 150 hours (€3750)
 * Ben: from 70 up to 140 hours (€3500)
 * Auke: from 20 up to 40 hours (€1000)
 * Yvo: from 35 up to 70 hours (€1750)
 
-## RfP 3 (milestones 2b+3a, from 400 to 600 hours)
+## RfP 3
+Milestones:
+[2b1](https://github.com/pdsinterop/project-admin/blob/master/milestones.md#2b1-standalone-php)
++
+[2b2](https://github.com/pdsinterop/project-admin/blob/master/milestones.md#2b2-nextcloud-integration)
++
+[3a](https://github.com/pdsinterop/project-admin/blob/master/milestones.md#3a-test-suite),
+from 400 to 600 hours)
 This RfP will bring us back on budget.
