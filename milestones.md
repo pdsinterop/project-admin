@@ -1,8 +1,8 @@
 # Milestones
 
 All of these milestones are organized in 4 topics.
-We will request payment of 5,000 euros (for large milestones) or 2,500 euros
-(for small milestones) from the [Next Generation Internet Privacy & Trust
+We will request payment of 5,000 euros for each milestone from the
+[Next Generation Internet Privacy & Trust
 Enhancing Technologies (NGI-Zero:PET) grant](https://nlnet.nl/PET/) for a total
 of 50,000 euros.
 
@@ -15,13 +15,11 @@ The milestones are:
 
 2. Storage API
    - 2a. Test Suite (€5,000)
-   - 2b. Standalone PHP (€2,500)
-   - 2c. Nextcloud Integration (€2,500)
+   - 2b. Implementation (€5,000)
 
 3. Web ACL
    - 3a. Test Suite (€5,000)
-   - 3b. Standalone PHP (€2,500)
-   - 3c. Nextcloud Integration (€2,500)
+   - 3b. Implementation (€5,000)
 
 4. Deep Integration with Nextcloud
    - 4a. Solid App Launcher (€5,500)
@@ -108,7 +106,7 @@ The exact test criteria this test suite tests for will be detailed on a
 dedicated public web page on https://pdsinterop.org/, with links to the relevant
 sections in the official Solid spec.
 
-### 2b. Standalone PHP
+### 2b1. Standalone PHP
 
 This milestone will implement the Solid storage API in standalone PHP, in such a
 way that any generic parts can be re-used (as package) in the Nextcloud
@@ -120,7 +118,7 @@ sparql-update and content-negotiation.
 The implementation will pass all relevant tests from the Storage API Test Suite
 milestone.
 
-### 2c. Nextcloud Integration
+### 2b2. Nextcloud Integration
 
 This milestone will include the integration of the Solid storage API into the
 Nextcloud app (using any packages created in the previous milestone).
@@ -153,7 +151,7 @@ The exact test criteria this test-suite tests for will be detailed on a
 dedicated public web page on https://pdsinterop.org/, with links to the relevant
 sections in the official Solid spec.
 
-### 3b. Standalone PHP
+### 3b1. Standalone PHP
 
 This milestone will implement the Web Access Control spec in standalone PHP, in
 such a way that any generic parts can be re-used (as package) in the Nextcloud
@@ -162,7 +160,7 @@ integration.
 The implementation will pass all relevant tests from the Web ACL Test Suite
 milestone.
 
-### 3c. Nextcloud Integration
+### 3b2. Nextcloud Integration
 
 This milestone will include the integration of the Web Access Control spec into
 the Nextcloud app (using any packages created in the previous milestone).
