@@ -30,3 +30,20 @@
 <!-- Yvo: 0+0+0+4+12+2+4+1+3+2+3+.5+.5+2+20+26=80 -->
 <!-- Team: 0+2+2+41.5+31+34+50.5+22+54+28.5+28.5+20.5+6+12.5+31.5+24.5+28.5+20.5+17.5=481.5 -->
 <!-- Bottom line: 182.5+167+52+80=481.5 -->
+
+# Hours paid out per RfP, per team member
+
+## RfP 1 (milestones 1a+1c, up to 200 hours)
+* Michiel: first 75 hours (€3750)
+* Ben: first 70 hours (€3500)
+* Auke: first 20 hours (€1000)
+* Yvo: first 35 hours (€1750)
+
+## RfP 2 (milestones 1b+2a, from 200 to 400 hours)
+* Michiel: from 75 up to 150 hours (€3750)
+* Ben: from 70 up to 140 hours (€3500)
+* Auke: from 20 up to 40 hours (€1000)
+* Yvo: from 35 up to 70 hours (€1750)
+
+## RfP 3 (milestones 2b+3a, from 400 to 600 hours)
+This RfP will bring us back on budget.
