@@ -2,7 +2,9 @@
 
 Days of the week that each team member tends to be online and will be reacting to GitHub notifications and Slack:
 
-* Michiel: Mon-Fri, 9-14
+* Michiel:
+  - Available on Slack for quick questions: Usually Mon-Sun, 7-23
+  - Available for meetings and pair-programming: Usually Mon-Fri, 9-17
 * Ben:
   - Tuesday - Friday: 9:30 - 17:00 Active and available on Slack
   - Monday-Friday: Email is checked twice a day, morning and evening.

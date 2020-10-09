@@ -106,3 +106,22 @@ Michiel's own admin of his hours worked for the project:
   * thu 24 sep: fetch-openid-config tests (9-14:30) 5.5
   * thu 24 sep: fetch-webid-profile tests (15-17) 2
   * fri 25 sep: milestone 1c (9-16) 7
+
+# Week of 28 Sep: 1+5+2+3+2+4+1.5+5+1+1+6+1=32.5 (total: 215)
+  * mon 28 sep: meeting and admin (9-10) 1
+  * mon 28 sep: wrapping up milestone 1a (12-17) 5
+  * tue 29 sep: wrapping up milestone 1a (9-11) 2
+  * tue 29 sep: wrapping up milestone 1a (12-15) 3
+  * tue 29 sep: prepare demo (15-17) 2
+  * wed 30 sep: prepare demo (9-13) 4
+  * wed 30 sep: failing to get demo working (16-17:30) 1.5
+  * thu 1 oct: record Nextcloud lightning talk (9-14) 5
+  * thu 1 oct: produce RfP for milestone 1 (14-15) 1
+  * thu 1 oct: Solid World online meetup (16-17) 1
+  * fri 2 oct: Automate test suite on Travis (9-15) 6
+  * sun 4 oct: present at Nextcloud conference (15-16) 1
+
+# Week of 5 Oct: 3+1+1=5 (total: 220)
+  * mon 5 oct: solid crud tests (8:30-11:30) 3
+  * mon 5 oct: websockets-pubsub (16-17) 1
+  * fri 9 oct: Admin and meeting (9-10) 1
