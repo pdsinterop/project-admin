@@ -121,7 +121,22 @@ Michiel's own admin of his hours worked for the project:
   * fri 2 oct: Automate test suite on Travis (9-15) 6
   * sun 4 oct: present at Nextcloud conference (15-16) 1
 
-# Week of 5 Oct: 3+1+1=5 (total: 220)
+# Week of 5 Oct: 3+1+0.5=4.5 (total: 219.5)
   * mon 5 oct: solid crud tests (8:30-11:30) 3
   * mon 5 oct: websockets-pubsub (16-17) 1
-  * fri 9 oct: Admin and meeting (9-10) 1
+  * fri 9 oct: Admin and meeting (9-9:30) 0.5
+
+# Week of 12 Oct: 2+0.5+1+0.5+2+1+3=10 (total: 229.5)
+  * tue 13 oct: mashlib-dev release-the-stack.sh in Docker (15-17) 2
+  * wed 14 oct: Discuss proposed WAC changes for test-suite (10-10:30) 0.5
+  * wed 14 oct: Solid OS meeting (13-14) 1
+  * thu 15 oct: Respond to messages (8:30-9) 0.5
+  * thu 15 oct: mashlib-dev release-the-stack.sh in Docker (13-15) 2
+  * thu 15 oct: Fix solid-crud-tests (20-21) 1
+  * fri 16 oct: Run test suites on master branches (9-12) 3
+
+# Week of 19 Oct: 0.5+5+2+6=13.5 (total: 243)
+  * mon 19 oct: Improve https://github.com/linkeddata/rdflib.js/pull/438 (10-10:30) 0.5
+  * mon 19 oct: tests in php-solid-server/nextcloud-server Travis (11:30-16:30) 5
+  * tue 20 oct: Refresh Token Rotation (9-11) 2
+  * tue 20 oct: NSS/mashlib-dev - solid-crud (11-17) 6
