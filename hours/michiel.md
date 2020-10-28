@@ -135,8 +135,21 @@ Michiel's own admin of his hours worked for the project:
   * thu 15 oct: Fix solid-crud-tests (20-21) 1
   * fri 16 oct: Run test suites on master branches (9-12) 3
 
-# Week of 19 Oct: 0.5+5+2+6=13.5 (total: 243)
+# Week of 19 Oct: 0.5+5+2+6+0.5+2.5+1.5+2.5+0.5+3+4.5+8=36.5 (total: 266)
   * mon 19 oct: Improve https://github.com/linkeddata/rdflib.js/pull/438 (10-10:30) 0.5
   * mon 19 oct: tests in php-solid-server/nextcloud-server Travis (11:30-16:30) 5
   * tue 20 oct: Refresh Token Rotation (9-11) 2
   * tue 20 oct: NSS/mashlib-dev - solid-crud (11-17) 6
+  * wed 21 oct: Solid OS meeting (13:30-14) 0.5
+  * thu 22 oct: Test suite support (9-11:30) 2.5
+  * fri 23 oct: Meeting and php-solid-server PR (9-10:30) 1.5
+  * fri 23 oct: Build stack for Contacts work (12-14:30) 2.5
+  * fri 23 oct: Coordinate with Jeff (16-16:30) 0.5
+  * mon 24 oct: Solid OS build stack (9-12) 3
+  * mon 24 oct: Solid OS build stack (12:30-17) 4.5
+  * tue 25 oct: Fix Solid UI build, Contacts milestone read-only (9-17) 8
+
+# Week of 26 Oct: 3+1+1.5=5.5 (total: 271.5)
+  * wed 26 oct: solid-idp for WAC-tests milestone (9-12) 3
+  * wed 26 oct: Solid OS meeting (13-14) 1
+  * wed 26 oct: solid/test-suite (15:30-17) 1.5
