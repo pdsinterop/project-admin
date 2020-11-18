@@ -149,7 +149,31 @@ Michiel's own admin of his hours worked for the project:
   * mon 24 oct: Solid OS build stack (12:30-17) 4.5
   * tue 25 oct: Fix Solid UI build, Contacts milestone read-only (9-17) 8
 
-# Week of 26 Oct: 3+1+1.5=5.5 (total: 271.5)
+# Week of 26 Oct: 3+1+1.5+2+2.5=10 (total: 276)
   * wed 26 oct: solid-idp for WAC-tests milestone (9-12) 3
   * wed 26 oct: Solid OS meeting (13-14) 1
   * wed 26 oct: solid/test-suite (15:30-17) 1.5
+  * thu 27 oct: Set up web-acces-control-tests and fix NSS master (9:30-11:30) 2
+  * thu 27 oct: Set up web-acces-control-tests release NSS v5.5.3 (14:30-17) 2.5
+
+# Week of 2 Nov: 5+0.5+1+0.5+5=12 (total: 288)
+  * tue 3 nov: Set up solid-logic (12-17) 5
+  * thu 5 nov: Solid CRUD suite debugging (15:30-16) 0.5
+  * thu 5 nov: Solid World (16-17) 1
+  * fri 6 nov: meeting (10-10:30) 0.5
+  * fri 6 nov: web-access-control-tests (12-17) 5
+
+# Week of 9 Nov: 1+1+6.5+1+1.5+1.5=12.5 (total: 300.5)
+  * mon 9 nov: Support Yvo with solid-crud-tests / php-solid-server (11:30-12:30) 1
+  * mon 9 nov: Support Yvo with solid-crud-tests / php-solid-server (16-17) 1
+  * thu 12 nov: Test suites, stack release (9:30-16) 6.5
+  * fri 13 nov: Test suite and meeting (9-10) 1
+  * fri 13 nov: Test suite (10:30-12) 1.5
+  * fri 13 nov: Test suite (12:30-14) 1.5
+
+# Week of 16 Nov: 3+0.5+1.5+4.5+1=10.5 (total: 311)
+  * tue 17 nov: test suites from Docker hub (11-14) 3
+  * tue 17 nov: WAC tests (17-17:30) 0.5
+  * tue 17 nov: WAC tests (19-20:30) 1.5
+  * wed 18 nov: Solid test suite (10:30-15) 4.5
+  * wed 18 nov: Solid OS meeting (18-19) 1
