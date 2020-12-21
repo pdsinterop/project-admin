@@ -78,3 +78,14 @@ We are now 158.5 hours over budget, so everybody will get paid roughly 79% of wh
 * Auke: from 35 hours to (75.7% of 66) 50 (15 hours = €750)
 * Yvo: from 85 hours to (80% of 187.5) 150 (65 hours = €3250)
 
+## RfP 4
+Milestones:
+[3b](https://github.com/pdsinterop/project-admin/blob/master/milestones.md#3b1-standalone-php),
+from 600 to 700 hours.
+
+We are now 119 hours over budget, so everybody will get paid up to roughly 85% of what they worked:
+
+* Michiel: from 245 hours to (84% of 320.5) 270 hours (= 25 hours = €1250)
+* Ben: from 155 hours to (88% of 194) 170 hours (= 15 hours = €750)
+* Auke: from 50 hours to (91% of 66) 60 hours (= 10 hours = €500)
+* Yvo: from 150 hours to (84% of 238.5) 200 hours (= 50 hours = €2500)
