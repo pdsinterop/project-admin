@@ -82,7 +82,7 @@ Milestones:
 [3b](https://github.com/pdsinterop/project-admin/blob/master/milestones.md#3b1-standalone-php),
 from 600 to 700 hours.
 
-We are now 156 hours over budget, so everybody will get paid up to roughly 82% of what they worked:
+We are now 146 hours over budget, so everybody will get paid up to roughly 83% of what they worked:
 
 * Michiel: from 245 hours to (81% of 320.5) 260 hours (= 15 hours = €750)
 * Ben: from 155 hours to (83% of 217) 180 hours (= 25 hours = €1250)
