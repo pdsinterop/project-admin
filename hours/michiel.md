@@ -171,9 +171,27 @@ Michiel's own admin of his hours worked for the project:
   * fri 13 nov: Test suite (10:30-12) 1.5
   * fri 13 nov: Test suite (12:30-14) 1.5
 
-# Week of 16 Nov: 3+0.5+1.5+4.5+1=10.5 (total: 311)
+# Week of 16 Nov: 3+0.5+1.5+4.5+1+1+2+0.5=14 (total: 314.5)
   * tue 17 nov: test suites from Docker hub (11-14) 3
   * tue 17 nov: WAC tests (17-17:30) 0.5
   * tue 17 nov: WAC tests (19-20:30) 1.5
   * wed 18 nov: Solid test suite (10:30-15) 4.5
+  * wed 18 nov: Milestone report (16-17) 1
   * wed 18 nov: Solid OS meeting (18-19) 1
+  * thu 19 nov: Solid Test Suite hand-over to Pete Edwards (10-12) 2
+  * fri 20 nov: meeting (9:30-10) 0.5
+
+# Week of 23 Nov: 1+1+1=3 (total: 317.5)
+  * mon 23 nov: test suites hand-over to Pete (12:30-13:30) 1
+  * fri 26 nov: meeting and fixing master branch (9-10) 1
+  * fri 26 nov: fixing master branches (14:30-15:30) 1
+
+# Week of 30 Nov: 1=1 (total: 318.5)
+  * tue 30 nov: Test suite meeting (14-15) 1
+
+# Week of 7 Dec: 0.5=0.5 (total: 319)
+  * fri 11 dec: meeting (10-10:30) 0.5
+
+# Week of 14 Dec: 0.5+1=1.5 (total: 320.5)
+  * wed 16 dec: Chat with Yvo (11:30-12) 0.5
+  * fri 18 dec: Meeting (10-11) 1
