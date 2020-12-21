@@ -39,7 +39,7 @@
 <!-- Ben: 0+0+0+17.5+3+10+22.5+0+21+21+8+18+2+2+24+2+16+6+4+5+3+9+4+2+8+1+2+6=217 -->
 <!-- Auke: 8+8+9+8+4+12+3+6+8+2+2=70 -->
 <!-- Yvo: 0+0+0+4+12+2+4+1+3+2+3+.5+.5+2+20+26+34+10+.5+4+17+19+20+3+3+8+8+32=238.5 -->
-<!-- Team: 0+2+2+41.5+31+34+50.5+22+54+28.5+28.5+20.5+6+12.5+37.5+24.5+28.5+20.5+49.5+70.5+19.5+10.5+40.5+30+48+32.5+17+6+9+8.5+33.5=819 -->
+<!-- Team: 0+2+2+41.5+31+34+50.5+22+54+28.5+28.5+20.5+6+12.5+37.5+24.5+28.5+20.5+49.5+70.5+19.5+10.5+40.5+30+48+36.5+19+14+12+12.5+39.5=846 -->
 <!-- Bottom line: 320.5+217+70+238.5=846 -->
 
 # Hours paid out per RfP, per team member
@@ -82,9 +82,9 @@ Milestones:
 [3b](https://github.com/pdsinterop/project-admin/blob/master/milestones.md#3b1-standalone-php),
 from 600 to 700 hours.
 
-We are now 119 hours over budget, so everybody will get paid up to roughly 85% of what they worked:
+We are now 156 hours over budget, so everybody will get paid up to roughly 82% of what they worked:
 
-* Michiel: from 245 hours to (84% of 320.5) 270 hours (= 25 hours = €1250)
-* Ben: from 155 hours to (88% of 194) 170 hours (= 15 hours = €750)
-* Auke: from 50 hours to (91% of 66) 60 hours (= 10 hours = €500)
+* Michiel: from 245 hours to (81% of 320.5) 260 hours (= 15 hours = €750)
+* Ben: from 155 hours to (83% of 217) 180 hours (= 25 hours = €1250)
+* Auke: from 50 hours to (86% of 70) 60 hours (= 10 hours = €500)
 * Yvo: from 150 hours to (84% of 238.5) 200 hours (= 50 hours = €2500)
