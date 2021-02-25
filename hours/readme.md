@@ -42,15 +42,15 @@
 |  1 Feb  |    4    |  -   |  -   |  -   |  4   |
 |  8 Feb  |    7.5  |  -   |  -   |  8   | 15.5 |
 | 15 Feb  |   21    |  -   |  -   | 12   | 33   |
-| 22 Feb  |    5    |  -   |  -   |  -   |  5   |
-| **Cumm**| **360** | **217** | **70**  | **286.5**  | **915.5** |
+| 22 Feb  |    5.5  |  -   |  -   |  -   |  5.5   |
+| **Cumm**| **360.5** | **217** | **70**  | **287**  | **915.5** |
 
-<!-- Michiel: 0+2+2+12+8+13+16+17+18+5.5+17.5+2.5+4+7.5+7+22+10.5+.5+17.5+32.5+4.5+10+36.5+10+12+12.5+14+3+1+.5+1.5+2+4+7.5+21+5=360 -->
+<!-- Michiel: 0+2+2+12+8+13+16+17+18+5.5+17.5+2.5+4+7.5+7+22+10.5+.5+17.5+32.5+4.5+10+36.5+10+12+12.5+14+3+1+.5+1.5+2+4+7.5+21+5.5=360.5 -->
 <!-- Ben: 0+0+0+17.5+3+10+22.5+0+21+21+8+18+2+2+24+2+16+6+4+5+3+9+4+2+8+1+2+6=217 -->
 <!-- Auke: 8+8+9+8+4+12+3+6+8+2+2=70 -->
 <!-- Yvo: 0+0+0+4+12+2+4+1+3+2+3+.5+.5+2+20+26+34+10+.5+4+17+19+20+3+3+8+8+32+4+4+0+16+0+4+0+8+12+0=286.5 -->
 <!-- Team: 0+2+2+41.5+31+34+50.5+22+54+28.5+28.5+20.5+6+12.5+37.5+24.5+28.5+20.5+49.5+70.5+19.5+10.5+40.5+30+48+36.5+19+14+12+12.5+39.5+4+4+0+18+0+4+4+15.5+33+5=933.5 -->
-<!-- Bottom line: 360+217+70+286.5=933.5 -->
+<!-- Bottom line: 360.5+217+70+286.5=934 -->
 
 # Hours paid out per RfP, per team member
 
@@ -88,8 +88,7 @@ We are now 158.5 hours over budget, so everybody will get paid roughly 79% of wh
 * Yvo: from 85 hours to (80% of 187.5) 150 (65 hours = €3250)
 
 ## RfP 4
-Milestones:
-[3b](https://github.com/pdsinterop/project-admin/blob/master/milestones.md#3b1-standalone-php),
+Milestone: [3b](https://github.com/pdsinterop/project-admin/blob/master/milestones.md#3b1-standalone-php),
 from 600 to 700 hours.
 
 We are now 146 hours over budget, so everybody will get paid up to roughly 83% of what they worked:
@@ -98,3 +97,16 @@ We are now 146 hours over budget, so everybody will get paid up to roughly 83% o
 * Ben: from 155 hours to (83% of 217) 180 hours (= 25 hours = €1250)
 * Auke: from 50 hours to (86% of 70) 60 hours (= 10 hours = €500)
 * Yvo: from 150 hours to (84% of 238.5) 200 hours (= 50 hours = €2500)
+
+
+## RfP 4
+Milestones:
+[4a](https://github.com/pdsinterop/project-admin/blob/master/milestones.md#4a-solid-app-launcher),
+from 700 to 800 hours.
+
+We are now 134 hours over budget, so everybody will get paid up to roughly 85% of what they worked:
+
+* Michiel: from 260 hours to (86% of 360.5) 310 hours (= 50 hours = €2500)
+* Ben: from 180 hours to (83% of 217) 180 hours (= 0 hours = €0)
+* Auke: from 50 hours to (86% of 70) 60 hours (= 0 hours = €0)
+* Yvo: from 200 hours to (87% of 286.5) 250 hours (= 50 hours = €2500)

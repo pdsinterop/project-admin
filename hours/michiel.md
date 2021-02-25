@@ -222,7 +222,8 @@ Michiel's own admin of his hours worked for the project (2021):
   * wed 17 feb: Test suite work (9-12) 3
   * wed 17 feb: Test suite work (13-17) 4
 
-# Week of 22 Feb: 3+1+1=5 (total: 39.5)
+# Week of 22 Feb: 3+1+1.5=5.5 (total: 40)
   * tue 23 feb: ESS test suite (9-12) 3
   * tue 23 feb: CSS test suite (16-17) 1
   * tue 23 feb: CSS test suite (19-20) 1
+  * thu 25 feb: Write RfP (15-15:30) .5

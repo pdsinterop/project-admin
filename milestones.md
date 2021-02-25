@@ -22,7 +22,7 @@ The milestones are:
    - 3b. Implementation (€5,000)
 
 4. Deep Integration with Nextcloud
-   - 4a. Solid App Launcher (€5,500)
+   - 4a. Solid App Launcher (€5,000)
    - 4b. Contacts and Profile (€5,000)
    - 4c. Calendar (€5,000)
 
