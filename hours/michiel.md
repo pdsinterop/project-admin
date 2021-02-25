@@ -1,4 +1,4 @@
-Michiel's own admin of his hours worked for the project:
+Michiel's own admin of his hours worked for the project (2020):
 
 # Week of 25 May: 2=2 (total: 2)
   * mon 25 may: Discuss grant 2
@@ -195,3 +195,34 @@ Michiel's own admin of his hours worked for the project:
 # Week of 14 Dec: 0.5+1=1.5 (total: 320.5)
   * wed 16 dec: Chat with Yvo (11:30-12) 0.5
   * fri 18 dec: Meeting (10-11) 1
+
+Michiel's own admin of his hours worked for the project (2021):
+
+# Week of 11 Jan: 0.5+1.5=2 (total: 2)
+  * mon 11 jan: bespreking met Yvo over launcher en acl:Origin (16:30-17) 0.5
+  * mon 11 jan: Create a solid-auth-fetcher based app for testing with DPop (18:30-20) 1.5
+
+# Week of 1 Feb: 2+2=4 (total: 6)
+  * thu 4 feb: Solid test-suite updates (13-15) 2
+  * fri 5 feb: Solid test-suite updates (13-15) 2
+
+# Week of 8 Feb: 1+1.5+2+1+2=7.5 (total: 13.5)
+  * wed 10 feb: Test suite work (9-10) 1
+  * wed 10 feb: Test suite work (10:30-12) 1.5
+  * fri 12 feb: Test suite work (9-11) 2
+  * fri 12 feb: Test suite work (13-14) 1
+  * fri 12 feb: Test suite work (15-17) 2
+
+# Week of 15 Feb: 2+3+3+3+3+3+4=21 (total: 34.5)
+  * sun 14 feb: test suite work (10-12) 2
+  * mon 15 feb: Test suite work (9-12) 3
+  * mon 15 feb: Test suite work (13-16) 3
+  * tue 16 feb: test suite work (9-12) 3
+  * wed 17 feb: test suite work (4-7) 3
+  * wed 17 feb: Test suite work (9-12) 3
+  * wed 17 feb: Test suite work (13-17) 4
+
+# Week of 22 Feb: 3+1+1=5 (total: 39.5)
+  * tue 23 feb: ESS test suite (9-12) 3
+  * tue 23 feb: CSS test suite (16-17) 1
+  * tue 23 feb: CSS test suite (19-20) 1
