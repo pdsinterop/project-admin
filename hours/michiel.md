@@ -222,8 +222,15 @@ Michiel's own admin of his hours worked for the project (2021):
   * wed 17 feb: Test suite work (9-12) 3
   * wed 17 feb: Test suite work (13-17) 4
 
-# Week of 22 Feb: 3+1+1.5=5.5 (total: 40)
+# Week of 22 Feb: 3+1+1=5 (total: 39.5)
   * tue 23 feb: ESS test suite (9-12) 3
   * tue 23 feb: CSS test suite (16-17) 1
   * tue 23 feb: CSS test suite (19-20) 1
-  * thu 25 feb: Write RfP (15-15:30) .5
+
+# Week of 1 Mar: 3.5+0.5+2=6 (total: 45.5)
+  * thu 4 mar: spec disputes (11-14:30) 3.5
+  * fri 5 mar: reproduction instructions, spec issue #246 (9-9:30) 0.5
+  * fri 5 mar: Discuss spec disputes with Sarven (12-14) 2
+
+# Week of 8 Mar: 2=2 (total: 47.5)
+  * mon 8 mar: concurrency tests (9-11) 2
