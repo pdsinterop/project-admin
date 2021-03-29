@@ -102,7 +102,7 @@ We are now 146 hours over budget, so everybody will get paid up to roughly 83% o
 * Yvo: from 150 hours to (84% of 238.5) 200 hours (= 50 hours = €2500)
 
 
-## RfP 4
+## RfP 5
 Milestones:
 [4a](https://github.com/pdsinterop/project-admin/blob/master/milestones.md#4a-solid-app-launcher),
 from 700 to 800 hours.
